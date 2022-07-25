@@ -1,0 +1,8 @@
+{
+  "name": "web3-user-punks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BraianVaylet/web3-user-punks.git",
+  "author": "Braian Vaylet <braianvaylet@gmail.com>",
+  "license": "MIT"
+}
